@@ -31,3 +31,7 @@ console.log(myArr2.slice(1,4)); //slice make change by making copy of original a
 console.log("A:",myArr2);
 console.log(myArr2.splice(1,4)); //splice make change to original array & it doesn't consider the range;
 console.log("B: ",myArr2);
+
+const s
+console.log(Array.from(myArr2));
+    
